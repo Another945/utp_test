@@ -1,0 +1,44 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"ts_test_stage",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"autotile_2","closed_edge":false,"name":"autotile_2","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
+        9,21,20,51,12,30,50,53,13,43,38,45,42,44,52,22,8,34,24,28,1,26,25,29,10,27,33,37,17,35,36,54,11,5,7,
+        40,2,41,18,49,16,48,3,4,19,6,14,
+      ],},
+    {"$GMAutoTileSet":"","%Name":"autotile_3","closed_edge":false,"name":"autotile_3","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[9,21,20,1,13,8,54,7,12,46,10,2,17,16,18,55,],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"ts_test_stage",
+  "out_columns":7,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Test Stage",
+    "path":"folders/Tile Sets/Test Stage.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_tiles_test",
+    "path":"sprites/spr_tiles_test/spr_tiles_test.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":56,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"mobile_key_codes_refresh",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"mobile_key_codes_refresh",
+  "parent":{
+    "name":"Mobile",
+    "path":"folders/Scripts/Mobile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

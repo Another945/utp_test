@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"my_string_spit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"my_string_spit",
+  "parent":{
+    "name":"Strings",
+    "path":"folders/Scripts/Utils/Strings.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

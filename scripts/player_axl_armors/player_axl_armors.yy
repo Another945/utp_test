@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_axl_armors",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_axl_armors",
+  "parent":{
+    "name":"Armors",
+    "path":"folders/Scripts/Player/Characters/Axl/Armors.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_player_x_shot_ult",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.028571,
+  "exportDir":"",
+  "name":"snd_player_x_shot_ult",
+  "parent":{
+    "name":"Ultimate",
+    "path":"folders/Sounds/Player/Characters/X/Armors/Ultimate.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_player_x_shot_ult",
+  "volume":1.0,
+}

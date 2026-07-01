@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_get_aim_angle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_get_aim_angle",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Player/Base/Weapons/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

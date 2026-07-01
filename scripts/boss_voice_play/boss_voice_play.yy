@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"boss_voice_play",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"boss_voice_play",
+  "parent":{
+    "name":"Bosses",
+    "path":"folders/Scripts/Bosses.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

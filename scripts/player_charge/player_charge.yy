@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_charge",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_charge",
+  "parent":{
+    "name":"Charge",
+    "path":"folders/Scripts/Player/Base/Weapons/Charge.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"linspace",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"linspace",
+  "parent":{
+    "name":"Unsorted",
+    "path":"folders/Scripts/Unsorted.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

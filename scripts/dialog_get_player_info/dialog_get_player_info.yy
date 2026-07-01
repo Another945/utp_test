@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dialog_get_player_info",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dialog_get_player_info",
+  "parent":{
+    "name":"dialog",
+    "path":"folders/Objects/dialog.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

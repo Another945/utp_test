@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ride_armor_scripts",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ride_armor_scripts",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Objects/Ride/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

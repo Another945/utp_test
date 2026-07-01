@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ene_item",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ene_item",
+  "parent":{
+    "name":"Step",
+    "path":"folders/Scripts/Enemy/Step.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

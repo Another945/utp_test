@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_megaman_lightning_bolt",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.081208,
+  "exportDir":"",
+  "name":"snd_megaman_lightning_bolt",
+  "parent":{
+    "name":"MegaMan",
+    "path":"folders/Sounds/Player/Characters/MegaMan.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_megaman_lightning_bolt.wav",
+  "volume":0.7,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"surface_draw_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"surface_draw_init",
+  "parent":{
+    "name":"Surface",
+    "path":"folders/Scripts/Utils/Draw/Surface.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

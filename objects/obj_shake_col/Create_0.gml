@@ -1,0 +1,2 @@
+visible = false;
+activated = false;

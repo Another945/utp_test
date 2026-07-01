@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"instance_center_get_x",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"instance_center_get_x",
+  "parent":{
+    "name":"Instance",
+    "path":"folders/Scripts/Utils/Instance.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

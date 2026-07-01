@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_fix_x_axis",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_fix_x_axis",
+  "parent":{
+    "name":"Collision",
+    "path":"folders/Scripts/Player/Base/Step/Collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"armor_is_full",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"armor_is_full",
+  "parent":{
+    "name":"Armor",
+    "path":"folders/Scripts/Utils/Armor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

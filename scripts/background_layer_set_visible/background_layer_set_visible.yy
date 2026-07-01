@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"background_layer_set_visible",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"background_layer_set_visible",
+  "parent":{
+    "name":"Layer",
+    "path":"folders/Scripts/Utils/Layer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

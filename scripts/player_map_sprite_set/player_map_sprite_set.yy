@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_map_sprite_set",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_map_sprite_set",
+  "parent":{
+    "name":"Sprites",
+    "path":"folders/Scripts/Player/Base/Sprites.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

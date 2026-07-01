@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_set_offset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_set_offset",
+  "parent":{
+    "name":"Draw",
+    "path":"folders/Scripts/Utils/Draw.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

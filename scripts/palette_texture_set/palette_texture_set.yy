@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"palette_texture_set",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"palette_texture_set",
+  "parent":{
+    "name":"Palette",
+    "path":"folders/Scripts/Utils/Palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

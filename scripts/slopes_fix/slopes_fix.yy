@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"slopes_fix",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"slopes_fix",
+  "parent":{
+    "name":"Unsorted",
+    "path":"folders/Scripts/Unsorted.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_saber_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_saber_init",
+  "parent":{
+    "name":"Saber",
+    "path":"folders/Scripts/Player/Base/Saber.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"gamepad_key",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gamepad_key",
+  "parent":{
+    "name":"GamePad",
+    "path":"folders/Scripts/Utils/GamePad.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

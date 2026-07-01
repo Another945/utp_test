@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_zero_nightmare_saber",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_zero_nightmare_saber",
+  "parent":{
+    "name":"Shots",
+    "path":"folders/Scripts/Player/Characters/Zero/Weapons/Shots.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

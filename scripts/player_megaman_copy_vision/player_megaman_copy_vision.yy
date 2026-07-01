@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_megaman_copy_vision",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_megaman_copy_vision",
+  "parent":{
+    "name":"Weapons",
+    "path":"folders/Scripts/Player/Characters/MegaMan/Weapons.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

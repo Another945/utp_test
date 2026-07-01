@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"instance_hit_player",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"instance_hit_player",
+  "parent":{
+    "name":"Methods",
+    "path":"folders/Scripts/Enemy/Methods.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

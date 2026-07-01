@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"calc_angle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"calc_angle",
+  "parent":{
+    "name":"Unsorted",
+    "path":"folders/Scripts/Unsorted.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_iris_variables",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_iris_variables",
+  "parent":{
+    "name":"Variables",
+    "path":"folders/Scripts/Player/Characters/Iris/Variables.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"voice_zero_death",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.1122675,
+  "exportDir":"",
+  "name":"voice_zero_death",
+  "parent":{
+    "name":"Voices",
+    "path":"folders/Sounds/Voices.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"voice_zero_death",
+  "volume":1.0,
+}

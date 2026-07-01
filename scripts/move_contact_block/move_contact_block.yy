@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"move_contact_block",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"move_contact_block",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Scripts/Player/Base/Physics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"screen_color_shader",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"screen_color_shader",
+  "parent":{
+    "name":"Screen",
+    "path":"folders/Scripts/Utils/Screen.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

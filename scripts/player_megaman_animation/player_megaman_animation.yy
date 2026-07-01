@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_megaman_animation",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_megaman_animation",
+  "parent":{
+    "name":"Animation",
+    "path":"folders/Scripts/Player/Characters/MegaMan/Animation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

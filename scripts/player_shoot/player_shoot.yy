@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_shoot",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_shoot",
+  "parent":{
+    "name":"Shoot",
+    "path":"folders/Scripts/Player/Base/Weapons/Shoot.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

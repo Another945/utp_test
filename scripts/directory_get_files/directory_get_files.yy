@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"directory_get_files",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"directory_get_files",
+  "parent":{
+    "name":"Directory",
+    "path":"folders/Scripts/Utils/Directory.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

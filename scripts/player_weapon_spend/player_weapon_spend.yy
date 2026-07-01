@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_weapon_spend",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_weapon_spend",
+  "parent":{
+    "name":"Cost",
+    "path":"folders/Scripts/Player/Base/Weapons/Functions/Cost.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"jumpable_wall_dir",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"jumpable_wall_dir",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Scripts/Player/Base/Physics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_dolor_reset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_dolor_reset",
+  "parent":{
+    "name":"Dolor",
+    "path":"folders/Scripts/Player/Base/Step/Dolor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

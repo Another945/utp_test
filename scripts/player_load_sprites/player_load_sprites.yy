@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_load_sprites",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_load_sprites",
+  "parent":{
+    "name":"Sprites",
+    "path":"folders/Scripts/Player/Base/Sprites.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

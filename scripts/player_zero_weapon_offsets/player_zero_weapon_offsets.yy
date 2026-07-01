@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_zero_weapon_offsets",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_zero_weapon_offsets",
+  "parent":{
+    "name":"Offsets",
+    "path":"folders/Scripts/Player/Characters/Zero/Weapons/Offsets.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

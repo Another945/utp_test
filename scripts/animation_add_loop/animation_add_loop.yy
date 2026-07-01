@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"animation_add_loop",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"animation_add_loop",
+  "parent":{
+    "name":"Animation",
+    "path":"folders/Scripts/Object/Animation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

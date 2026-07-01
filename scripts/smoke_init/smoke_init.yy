@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"smoke_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"smoke_init",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Scripts/Enemy/Effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

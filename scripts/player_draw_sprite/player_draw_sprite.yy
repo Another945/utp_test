@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_draw_sprite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_draw_sprite",
+  "parent":{
+    "name":"Draw",
+    "path":"folders/Scripts/Player/Base/Draw.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

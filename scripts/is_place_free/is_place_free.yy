@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"is_place_free",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"is_place_free",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Scripts/Player/Base/Physics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

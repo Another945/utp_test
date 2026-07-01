@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_weapon_collision",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_weapon_collision",
+  "parent":{
+    "name":"Base",
+    "path":"folders/Scripts/Player/Weapons/Base.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

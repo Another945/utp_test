@@ -1,0 +1,1 @@
+camera_id = 2; // el id del camera set de abajo

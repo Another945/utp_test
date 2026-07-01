@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_zero_variables",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_zero_variables",
+  "parent":{
+    "name":"Variables",
+    "path":"folders/Scripts/Player/Characters/Zero/Variables.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

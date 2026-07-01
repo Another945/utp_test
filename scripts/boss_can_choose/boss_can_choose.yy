@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"boss_can_choose",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"boss_can_choose",
+  "parent":{
+    "name":"Bosses",
+    "path":"folders/Scripts/Bosses.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

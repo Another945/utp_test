@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"keyframes_generate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"keyframes_generate",
+  "parent":{
+    "name":"Animation",
+    "path":"folders/Scripts/Object/Animation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

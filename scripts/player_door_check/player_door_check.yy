@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_door_check",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_door_check",
+  "parent":{
+    "name":"Default",
+    "path":"folders/Scripts/Player/Base/Step/Default.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

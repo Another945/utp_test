@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Script431",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Script431",
+  "parent":{
+    "name":"Slopes",
+    "path":"folders/Objects/Blocks/Slopes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"boss_death_x1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"boss_death_x1",
+  "parent":{
+    "name":"Death",
+    "path":"folders/Scripts/Bosses/Death.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

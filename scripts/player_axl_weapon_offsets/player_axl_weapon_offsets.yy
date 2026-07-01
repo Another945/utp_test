@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_axl_weapon_offsets",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_axl_weapon_offsets",
+  "parent":{
+    "name":"Offsets",
+    "path":"folders/Scripts/Player/Characters/Axl/Weapons/Offsets.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

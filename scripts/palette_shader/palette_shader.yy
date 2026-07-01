@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"palette_shader",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"palette_shader",
+  "parent":{
+    "name":"Palette",
+    "path":"folders/Scripts/Utils/Palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

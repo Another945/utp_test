@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"warning_load_page",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"warning_load_page",
+  "parent":{
+    "name":"Intro",
+    "path":"folders/Objects/Bosses/Intro.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

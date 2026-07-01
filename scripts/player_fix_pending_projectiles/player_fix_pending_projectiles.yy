@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_fix_pending_projectiles",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_fix_pending_projectiles",
+  "parent":{
+    "name":"Shoot",
+    "path":"folders/Scripts/Player/Base/Weapons/Shoot.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

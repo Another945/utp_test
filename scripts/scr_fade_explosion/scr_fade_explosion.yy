@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_fade_explosion",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_fade_explosion",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Enemy/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

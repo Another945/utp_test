@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"object_draw_on_surface",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"object_draw_on_surface",
+  "parent":{
+    "name":"Surface",
+    "path":"folders/Scripts/Utils/Draw/Surface.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

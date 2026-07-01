@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"transition_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"transition_create",
+  "parent":{
+    "name":"Transitions",
+    "path":"folders/Scripts/Utils/Transitions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

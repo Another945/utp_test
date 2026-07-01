@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"projectile_collision_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"projectile_collision_init",
+  "parent":{
+    "name":"Start",
+    "path":"folders/Scripts/Enemy/Start.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

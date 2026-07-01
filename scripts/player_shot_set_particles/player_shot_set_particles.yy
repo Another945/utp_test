@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_shot_set_particles",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_shot_set_particles",
+  "parent":{
+    "name":"Shots",
+    "path":"folders/Scripts/Player/Base/Shots.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

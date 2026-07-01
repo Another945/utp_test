@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_saber_key_check",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_saber_key_check",
+  "parent":{
+    "name":"Saber",
+    "path":"folders/Scripts/Player/Base/Saber.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

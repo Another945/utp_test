@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_armor_plt_index",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_armor_plt_index",
+  "parent":{
+    "name":"Global",
+    "path":"folders/Scripts/Player/Global.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

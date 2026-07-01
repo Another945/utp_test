@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_create_orbs",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_create_orbs",
+  "parent":{
+    "name":"Death",
+    "path":"folders/Scripts/Player/Base/Step/Death.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

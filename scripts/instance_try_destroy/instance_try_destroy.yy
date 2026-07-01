@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"instance_try_destroy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"instance_try_destroy",
+  "parent":{
+    "name":"Instance",
+    "path":"folders/Scripts/Utils/Instance.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_load_armor",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_load_armor",
+  "parent":{
+    "name":"Armor",
+    "path":"folders/Scripts/Player/Base/Armor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

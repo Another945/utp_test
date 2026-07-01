@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_string_width",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_string_width",
+  "parent":{
+    "name":"Text",
+    "path":"folders/Scripts/Utils/Text.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

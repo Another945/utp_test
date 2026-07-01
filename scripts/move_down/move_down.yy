@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"move_down",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"move_down",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Scripts/Player/Base/Physics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"keys_apply",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"keys_apply",
+  "parent":{
+    "name":"Keys",
+    "path":"folders/Scripts/Keys.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

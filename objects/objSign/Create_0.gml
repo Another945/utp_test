@@ -1,0 +1,12 @@
+grav = 0;
+blockCollision = false;
+sinx = 0;
+sinxAdd = 0.1;
+sinxTimes = 0.2;
+display_name = "Infobox " + string(id);
+name_color = make_color_rgb(60, 120, 255);
+text = "- Contains no message -";
+mugshot = -1;
+mugshot_idle = -1;
+speaker = "";
+can_interact = true;

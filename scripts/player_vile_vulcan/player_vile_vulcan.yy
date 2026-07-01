@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_vile_vulcan",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_vile_vulcan",
+  "parent":{
+    "name":"Shots",
+    "path":"folders/Scripts/Player/Characters/Vile/Weapons/Shots.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

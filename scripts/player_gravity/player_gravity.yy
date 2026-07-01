@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_gravity",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_gravity",
+  "parent":{
+    "name":"Gravity",
+    "path":"folders/Scripts/Player/Base/Step/Gravity.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_state_open_arms",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_state_open_arms",
+  "parent":{
+    "name":"States",
+    "path":"folders/Scripts/Player/Base/Weapons/States.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

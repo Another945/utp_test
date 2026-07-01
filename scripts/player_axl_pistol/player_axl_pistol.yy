@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_axl_pistol",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_axl_pistol",
+  "parent":{
+    "name":"Shots",
+    "path":"folders/Scripts/Player/Characters/Axl/Weapons/Shots.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

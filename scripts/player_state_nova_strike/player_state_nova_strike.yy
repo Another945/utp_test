@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_state_nova_strike",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_state_nova_strike",
+  "parent":{
+    "name":"States",
+    "path":"folders/Scripts/Player/Base/Special Weapons/States.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

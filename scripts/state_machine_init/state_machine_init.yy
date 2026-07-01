@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"state_machine_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"state_machine_init",
+  "parent":{
+    "name":"Create",
+    "path":"folders/Scripts/Player/Base/Create.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

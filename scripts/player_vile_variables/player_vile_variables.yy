@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_vile_variables",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_vile_variables",
+  "parent":{
+    "name":"Variables",
+    "path":"folders/Scripts/Player/Characters/Vile/Variables.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

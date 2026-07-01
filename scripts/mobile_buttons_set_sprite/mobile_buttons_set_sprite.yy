@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"mobile_buttons_set_sprite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"mobile_buttons_set_sprite",
+  "parent":{
+    "name":"Mobile",
+    "path":"folders/Scripts/Mobile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

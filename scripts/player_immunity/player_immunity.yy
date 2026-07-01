@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_immunity",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_immunity",
+  "parent":{
+    "name":"Immunity",
+    "path":"folders/Scripts/Player/Base/Step/Immunity.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_global_armor_settings",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_global_armor_settings",
+  "parent":{
+    "name":"Global",
+    "path":"folders/Scripts/Player/Global.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

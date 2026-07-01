@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_dash_dust",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_dash_dust",
+  "parent":{
+    "name":"Dash",
+    "path":"folders/Scripts/Player/Base/Step/Dash.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

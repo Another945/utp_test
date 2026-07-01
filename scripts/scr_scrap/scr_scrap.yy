@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_scrap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_scrap",
+  "parent":{
+    "name":"Step",
+    "path":"folders/Scripts/Enemy/Step.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

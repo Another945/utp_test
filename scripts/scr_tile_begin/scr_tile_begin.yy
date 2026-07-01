@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_tile_begin",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_tile_begin",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Scripts/Utils/Shaders.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

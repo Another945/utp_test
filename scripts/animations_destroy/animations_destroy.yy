@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"animations_destroy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"animations_destroy",
+  "parent":{
+    "name":"Animation",
+    "path":"folders/Scripts/Object/Animation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

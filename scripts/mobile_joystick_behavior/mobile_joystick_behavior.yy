@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"mobile_joystick_behavior",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"mobile_joystick_behavior",
+  "parent":{
+    "name":"Mobile",
+    "path":"folders/Scripts/Mobile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

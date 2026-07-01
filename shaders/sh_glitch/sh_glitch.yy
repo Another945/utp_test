@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_glitch",
+  "name":"sh_glitch",
+  "parent":{
+    "name":"try",
+    "path":"folders/try.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

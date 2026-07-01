@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_axl_animations",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_axl_animations",
+  "parent":{
+    "name":"Animations",
+    "path":"folders/Scripts/Player/Characters/Axl/Animations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
