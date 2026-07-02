@@ -8,11 +8,12 @@ background_list_set(2, [
 ]);
 room_shader_init();
 switch(global.character_selected_index[0]) {
-    case pl_char.x:       music_play("O_S_X"); break;
-    case pl_char.zero:    music_play("ChillPenguin"); break;
-    case pl_char.axl:     music_play("ChillPenguin"); break;
-    case pl_char.iris:    music_play("ChillPenguin"); break;
-    case pl_char.vile:    music_play("ChillPenguin"); break;
-    case pl_char.megaman: music_play("O_S_Rockman"); break;
-    default:              music_play("ChillPenguin"); break;
+    case pl_char.x:       global.stage_music = "O_S_X"; break;
+    case pl_char.zero:    global.stage_music = "ChillPenguin"; break;
+    case pl_char.axl:     global.stage_music = "ChillPenguin"; break;
+    case pl_char.iris:    global.stage_music = "ChillPenguin"; break;
+    case pl_char.vile:    global.stage_music = "ChillPenguin"; break;
+    case pl_char.megaman: global.stage_music = "O_S_Rockman"; break;
+    default:              global.stage_music = "ChillPenguin"; break;
 }
+music_play(global.stage_music);

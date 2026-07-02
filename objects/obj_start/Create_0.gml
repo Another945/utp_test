@@ -8,7 +8,7 @@ audio_init();
 mobile_start();
 bosses_init();
 instance_create_depth(0, 0, 0, obj_gamepad_manager);
-
+global.miniboss_defeated = ds_map_create();
 global.screen_width = display_get_width();
 global.screen_height = display_get_height();
 

@@ -7,7 +7,7 @@ function player_door_check() {
 		{ x:  0, y: -1 },
 		{ x: sign(x - x_door_check), y : 0 }
 	]);
-	if (door_inst != noone && door_inst.state == door_states.none) {
+	if (door_inst != noone && door_inst.state == door_states.none && !door_inst.locked_by_boss) {
 		var d = door_inst.dir;
 		var used_door = noone;
 		if (!door_inst.is_vertical) {

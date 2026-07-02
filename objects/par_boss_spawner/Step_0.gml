@@ -24,6 +24,7 @@ if (spawn) {
 			if (boss_object != noone) {
 				if (walk_to_x == infinity || abs(walk_to_x - player_inst.x) < 1) {
 					var inst = instance_create_depth(x, y, depth - 10, boss_object);
+					inst.exit_door = exit_door; 
 					with (inst) {
 						event_perform(ev_step, ev_step_normal);	
 					}

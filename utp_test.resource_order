@@ -2,6 +2,7 @@
   "FolderOrderSettings":[
     {"name":"Backgrounds","order":3,"path":"folders/Backgrounds.yy",},
     {"name":"group1","order":1,"path":"folders/Backgrounds/group1.yy",},
+    {"name":"miniboss","order":22,"path":"folders/miniboss.yy",},
     {"name":"Notes","order":6,"path":"folders/Notes.yy",},
     {"name":"Objects","order":7,"path":"folders/Objects.yy",},
     {"name":"dialog","order":1,"path":"folders/Objects/dialog.yy",},
@@ -130,6 +131,7 @@
     {"name":"obj_magma_dragoon_shot1","order":6,"path":"objects/obj_magma_dragoon_shot1/obj_magma_dragoon_shot1.yy",},
     {"name":"obj_magma_dragoon_shot2","order":7,"path":"objects/obj_magma_dragoon_shot2/obj_magma_dragoon_shot2.yy",},
     {"name":"obj_magma_dragoon_shot3","order":8,"path":"objects/obj_magma_dragoon_shot3/obj_magma_dragoon_shot3.yy",},
+    {"name":"obj_miniboss_sentry","order":1,"path":"objects/obj_miniboss_sentry/obj_miniboss_sentry.yy",},
     {"name":"obj_mobile_btn_dash","order":7,"path":"objects/obj_mobile_btn_dash/obj_mobile_btn_dash.yy",},
     {"name":"obj_mobile_btn_down","order":21,"path":"objects/obj_mobile_btn_down/obj_mobile_btn_down.yy",},
     {"name":"obj_mobile_btn_dpad","order":1,"path":"objects/obj_mobile_btn_dpad/obj_mobile_btn_dpad.yy",},
