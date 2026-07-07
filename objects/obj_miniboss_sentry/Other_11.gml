@@ -20,20 +20,22 @@ break;
 			state_set(mb_states.idle);
 		}
 	break;
+	case e_sentry.shot_burst:
+	if (t == 0) {
+		animation_play("shot");
+		look_at_player();
+		h_speed = 0;
+	}
+	if (t == 8 || t == 14 || t == 20) {
+		var shot = instance_create_depth(x + 16*dir, y - 4, depth - 1, obj_miniboss_sentry_shot);
+		shot.dir = dir;
+		shot.xscale = -dir;
+		var vs = 0;
+		if (t == 8) vs = -2;
+		else if (t == 20) vs = 2;
+		shot.v_speed = vs;
+		shot.h_speed = 4 * dir;
+	}
+	if (t >= 30) state_set(mb_states.idle);
+break;
 }
-//	case e_sentry.shot_burst:
-//		if (t == 0) {
-//			animation_play("shot");
-//			look_at_player();
-//			h_speed = 0;
-//		}
-//		if (t == 8 || t == 14 || t == 20) {
-//			var shot = instance_create_depth(x + 16*dir, y - 4, depth - 1, obj_miniboss_sentry_shot);
-//			shot.dir = dir;
-//			shot.xscale = -dir;
-//			shot.v_speed = (t == 8) ? -2 : (t == 20) ? 2 : 0;
-//			shot.h_speed = 4 * dir;
-//		}
-//		if (t >= 30) state_set(mb_states.idle);
-//	break;
-//}

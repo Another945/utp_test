@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_chill_penguin",
-    "path":"sprites/spr_chill_penguin/spr_chill_penguin.yy",
+    "name":"spr_yoshino_stand",
+    "path":"sprites/spr_yoshino_stand/spr_yoshino_stand.yy",
   },
   "spriteMaskId":null,
   "visible":true,

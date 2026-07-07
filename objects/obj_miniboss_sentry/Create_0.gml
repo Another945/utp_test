@@ -7,7 +7,11 @@ idle_limit = 40;
 dash_speed = 6;
 dash_wait = 10;
 dash_limit = 40;
+sprite_stand = spr_yoshino_stand;
+sprite_intro = spr_yoshino_intro;
 
+animation_add("stand", [0, 0], 0); // pose fija mientras cae
+animation_add("boss_intro", [0,0, 30,1, 60,2], 60); 
 animation_add("idle",  [0, 0], 0);
 animation_add("intro", [0, 1, 10, 2, 20, 0], 20);
 animation_add("dash",  [0, 3, 6, 4], 6);
@@ -21,4 +25,4 @@ enum e_sentry {
 }
 
 attack_properties[? e_sentry.dash_attack] = [1,   1/3]; // caro: se recupera lento
-//attack_properties[? e_sentry.shot_burst]  = [1/2, 1/4]; // barato: se puede repetir seguido
+attack_properties[? e_sentry.shot_burst] = [1/2, 1/4];

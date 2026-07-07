@@ -1,9 +1,19 @@
 event_inherited(); // enemy_init()
 
+sprite_battle = sprite_index; // el sprite que le pusiste al objeto en el editor (para idle/dash/shot/death)
 enum mb_states {
-	intro = 200, // fuera del rango de boss_states (100-107) y de los ataques custom de cada hijo (0-99)
-	idle  = 201,
+	warning = 198, // nuevo: antes de caer
+	falling = 199,
+	intro   = 200,
+	idle    = 201,
 }
+
+warning_done = false;
+warning_created = false;
+visible = false; // el boss no se ve hasta que termine el aviso
+
+sprite_stand = sprite_index; // el hijo lo sobrescribe con su spr_..._stand
+sprite_intro = sprite_index; // el hijo lo sobrescribe con su spr_..._intro
 
 // --- Compatibilidad con scr_weapon_collision ---
 is_boss = true;          // i-frames tipo boss + auto state_set(boss_states.death) al morir
@@ -29,10 +39,6 @@ death_animation = "death";
 drop_hp = true;
 gate_inst = noone;
 
-if (persist_defeat && ds_map_exists(global.miniboss_defeated, miniboss_key)) {
-	instance_destroy();
-	exit;
-}
-exit_door = noone;
-state_set(mb_states.intro, 0, [0,0,0,0,0]);
-if (exit_door != noone) exit_door.locked_by_boss = true;
+should_be_destroyed = (persist_defeat && ds_map_exists(global.miniboss_defeated, miniboss_key));
+
+state_set(mb_states.warning, 0, [0,0,0,0,0]);
