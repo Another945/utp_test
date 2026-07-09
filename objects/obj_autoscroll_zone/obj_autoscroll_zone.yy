@@ -35,5 +35,5 @@
     "path":"sprites/spr_autoscroll_start/spr_autoscroll_start.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

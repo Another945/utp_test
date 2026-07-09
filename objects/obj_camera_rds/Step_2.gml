@@ -112,4 +112,7 @@ if (global.reload && !global.checkpoint) {
 mid_x = __view_get(e__VW.XView, 0) + _width / 2;
 mid_y = __view_get(e__VW.YView, 0) + _height / 2;
 
+if (global.autoscroll_active) {
+	__view_set(e__VW.XView, view_id, global.autoscroll_target_x);
+}
 event_user(0);

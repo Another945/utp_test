@@ -149,11 +149,13 @@ function player_step() {
 		player_saber_check();
 		player_check_dolor();
 	} else {
-		script_try(state_array[state]);
-		player_disable_speed_gear();
+	script_try(state_array[state]);
+	player_disable_speed_gear();
+	if (!instance_exists(ride_inst) || !object_is_ancestor(ride_inst.object_index, obj_rush_jet)) {
 		player_charge_reset();
-		player_charge();	
 	}
+	player_charge(); // esta debe seguir corriendo siempre, es la que avanza el nivel de carga
+}
 	full_health = (hp == max_hp);
 	player_auto_regen();
 }

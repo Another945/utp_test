@@ -11,7 +11,8 @@ instance_create_depth(0, 0, 0, obj_gamepad_manager);
 global.miniboss_defeated = ds_map_create();
 global.screen_width = display_get_width();
 global.screen_height = display_get_height();
-
+global.autoscroll_active = false;
+global.autoscroll_target_x = 0;
 if (os_type == os_android)
 {
 	display_set_gui_size((720 / global.screen_height) * global.screen_width, 720);

@@ -1,6 +1,6 @@
-
 t = state_timer++;
-show_debug_message("rush jet state: " + string(state) + " t: " + string(t));
+animation_update(true); // faltaba esto — sin esto, la animación nunca avanza de frame
+
 switch (state) {
 
 	case rj_states.waiting:
@@ -35,16 +35,14 @@ switch (state) {
 			y = lerp(other.jump_start_y, other.jump_target_y, progress) - (sin(progress * pi) * other.jump_height);
 		}
 		if (progress >= 1) {
-			with (obj_player_parent) {
-				locked = false;
-				ride_inst = other.id;
-				v_speed = 0; h_speed = 0; grav = 0;
-				dash_air_count = 0;
-				state_set(states.ride);
-				player_dolor_reset();
-				player_effects_reset();
-				player_saber_reset();
-			}
+		with (obj_player_parent) {
+	h_speed = 0; v_speed = 0;
+	locked = false; // ← faltaba esto — sin esto, ni siquiera se lee el input de disparo
+	ride_inst = other.id;
+	ride_char_pos = { x: x, y: y };
+	state_set(states.ride, 0, [0,0,0,0,0]);
+
+}
 			sprite_index = spr_rush_jet_stand;
 			animation_play("stand");
 			state_set(rj_states.flying);
@@ -52,9 +50,6 @@ switch (state) {
 	break;
 
 	case rj_states.flying:
-		if (t == 0) animation_play("stand");
-		// placeholder simple de vuelo libre — lo afinamos después
-		h_speed = (key_right - key_left) * 4;
-		v_speed = (key_down - key_up) * 4;
-	break;
+	// el movimiento real corre en Other_10 (event_user(0)), disparado por states.ride del jugador
+break;
 }
