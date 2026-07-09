@@ -15,7 +15,7 @@ function player_shoot_check() {
 		|| state == states.z_buster_x5
 		)
 			condition = false;
-
+show_debug_message("condition: " + string(condition) + " shoot_wait: " + string(shoot_wait) + " using_special_weapon: " + string(using_special_weapon) + " saber_state: " + string(saber_state) + " shoot_enabled: " + string(shoot_enabled) + " charge_enabled: " + string(charge_enabled));
 		var change_state = -1, change_state_type = shoot_types.normal;
 
 		var key_p = false;
@@ -40,7 +40,7 @@ function player_shoot_check() {
 				current_weapon = weapon[2];
 			}
 		}
-		
+		show_debug_message("key_h final: " + string(key_h) + " key_p final: " + string(key_p) + " current_weapon: " + string(current_weapon));
 		if (shots_count < 0)
 			shots_count = 0;
 
