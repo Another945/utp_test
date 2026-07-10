@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":8.304,
+  "duration":3.1711667,
   "exportDir":"",
   "name":"snd_megaman_charge",
   "parent":{
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":48000,
-  "soundFile":"snd_megaman_charge.mp3",
+  "soundFile":"snd_megaman_charge.wav",
   "volume":1.0,
 }

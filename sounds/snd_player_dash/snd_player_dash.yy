@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":6,
   "conversionMode":0,
-  "duration":0.0,
+  "duration":0.36208618,
   "exportDir":"",
   "name":"snd_player_dash",
   "parent":{
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_player_dash",
-  "volume":1.0,
+  "soundFile":"snd_player_dash.wav",
+  "volume":0.57,
 }

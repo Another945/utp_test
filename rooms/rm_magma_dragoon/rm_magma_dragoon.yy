@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_magma_dragoon",
-  "creationCodeFile":"${project_dir}/rooms/rm_magma_dragoon/RoomCreationCode.gml",
+  "creationCodeFile":"rooms/rm_magma_dragoon/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

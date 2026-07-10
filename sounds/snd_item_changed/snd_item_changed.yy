@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.30653062,
+  "duration":0.14412698,
   "exportDir":"",
   "name":"snd_item_changed",
   "parent":{
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_item_changed.mp3",
+  "soundFile":"snd_item_changed.wav",
   "volume":1.0,
 }

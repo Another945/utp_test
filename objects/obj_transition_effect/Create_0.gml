@@ -5,9 +5,12 @@ enum transition_types
 	fade_out, // Disappear into Black
 	fade_out_and_fade_in,
 	blink, // Blink
-	transparency
+	transparency,
+	clock_wipe,
+	clock_wipe_reverse
 }
-
+sweep_angle = 0;
+next_room = noone; // si se asigna, cambia de room al terminar la transición
 transition_type = transition_types.fade_in;
 transition_limit = 30;
 timer = 0;

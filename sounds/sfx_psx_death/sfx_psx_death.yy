@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":6,
   "conversionMode":0,
-  "duration":0.0,
+  "duration":1.4120635,
   "exportDir":"",
   "name":"sfx_psx_death",
   "parent":{

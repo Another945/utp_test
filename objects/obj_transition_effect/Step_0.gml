@@ -8,11 +8,13 @@ if ((transition_type == transition_types.fade_in && timer == 0)
 var t = timer++;
 
 if (t > transition_limit) {
+	if (next_room != noone) room_goto(rm_test_slopes2);
 	if (auto_destroy) instance_destroy();
 	exit;
 }
 else {
 	switch (transition_type) {
+		
 		case transition_types.fade_in:
 		case transition_types.fade_out:
 			alpha = lerp(alpha_start, alpha_end, t / transition_limit);
@@ -34,5 +36,11 @@ else {
 		case transition_types.transparency:
 			back_index += back_speed;
 			break;
+			case transition_types.clock_wipe:
+		sweep_angle = lerp(0, 360, t / transition_limit);
+	break;
+	case transition_types.clock_wipe_reverse:
+	sweep_angle = lerp(360, 0, t / transition_limit); // empieza cubierto, se va encogiendo
+break;
 	}
 }

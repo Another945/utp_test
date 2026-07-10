@@ -15,10 +15,10 @@ scan_y = 0;
 scan_speed = 18;
 scan_alpha = 0;
 // Dificultad / Clase
-diff_classes = ["B", "S", "SA"];
+diff_classes = ["B","S","SA"];
 diff_descriptions = [
     "DIFICULTAD NORMAL\nPARA UNA MEJOR\nEXPERIENCIA.",
-    "DIFICULTAD DIFICIL\nPARA JUGADORESD\nEXPERIMENTADOS.",
+    "DIFICULTAD DIFICIL\nPARA JUGADORES\nEXPERIMENTADOS.",
     "DIFICULTAD EXTREMA\nPARA JUGADORES\nMUY EXPERIMENTADOS."
 ];
 diff_selected = 0;

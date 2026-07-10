@@ -5,7 +5,7 @@ dialog_inst     = noone;
 option_selected = -1;
 dialog_done     = false;
 
-correct_option  = 2;
+correct_option  = 0;
 reward_item     = [obj_pickup_heart, obj_pickup_life_2, obj_pickup_lifeup];
 damage_amount   = 4;
 

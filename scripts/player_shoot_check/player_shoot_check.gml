@@ -55,6 +55,7 @@ show_debug_message("condition: " + string(condition) + " shoot_wait: " + string(
 		}
 		if (current_weapon != noone && condition) {
 			if (key_p || (!key_h && charge && !auto_charge) || (key_h && weapon_hold_mode && !shoot_wait && !shoot_wait_press)) {	
+				show_debug_message("¡ENTRÓ A DISPARAR! weapon_hold_mode: " + string(weapon_hold_mode) + " key_p: " + string(key_p));
 				charge = false;
 				charge_t = 0;
 		
@@ -87,6 +88,7 @@ show_debug_message("condition: " + string(condition) + " shoot_wait: " + string(
 						charge_level = 0;
 				}
 			}
+			
 		}
 
 		if (!shoot) {

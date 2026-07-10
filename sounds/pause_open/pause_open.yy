@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"pause_open",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.33632654,
+  "exportDir":"",
+  "name":"pause_open",
+  "parent":{
+    "name":"unsorted",
+    "path":"folders/Sounds/unsorted.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"pause_open.wav",
+  "volume":1.0,
+}

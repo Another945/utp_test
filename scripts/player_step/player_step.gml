@@ -148,13 +148,17 @@ function player_step() {
 		player_shoot_check();
 		player_saber_check();
 		player_check_dolor();
-	} else {
+	}  else {
 	script_try(state_array[state]);
 	player_disable_speed_gear();
-	if (!instance_exists(ride_inst) || !object_is_ancestor(ride_inst.object_index, obj_rush_jet)) {
+	var _skip_reset = (instance_exists(ride_inst) && (ride_inst.object_index == obj_rush_jet || object_is_ancestor(ride_inst.object_index, obj_rush_jet)));
+	show_debug_message("skip_reset: " + string(_skip_reset) + " ride_inst obj: " + object_get_name(ride_inst.object_index) + " charge antes: " + string(charge));
+	if (!_skip_reset) {
 		player_charge_reset();
 	}
-	player_charge(); // esta debe seguir corriendo siempre, es la que avanza el nivel de carga
+	show_debug_message("charge despues de posible reset: " + string(charge));
+	player_charge();
+	show_debug_message("charge despues de player_charge(): " + string(charge));
 }
 	full_health = (hp == max_hp);
 	player_auto_regen();
