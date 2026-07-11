@@ -15,4 +15,5 @@ with (obj_player_parent) {
 	show_debug_message("current_weapon: " + string(current_weapon) + " weapon0: " + string(weapon[0]) + " key_shoot_raw: " + string(key_shoot));
 
 	player_shoot_check();
+	player_check_dolor();
 }

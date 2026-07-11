@@ -8,7 +8,7 @@ if ((transition_type == transition_types.fade_in && timer == 0)
 var t = timer++;
 
 if (t > transition_limit) {
-	if (next_room != noone) room_goto(rm_test_slopes2);
+	if (next_room != noone) room_goto(next_room); 
 	if (auto_destroy) instance_destroy();
 	exit;
 }

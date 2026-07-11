@@ -33,6 +33,6 @@ if (fading) {
     fade_alpha += fade_speed;
     if (fade_alpha >= 1) {
         fade_alpha = 1;
-        room_goto(rm_test_slopes);
+        room_goto(rm_test_slopes2);
     }
 }
